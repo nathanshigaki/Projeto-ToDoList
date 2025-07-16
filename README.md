@@ -1,42 +1,42 @@
-#To-Do List API
+# To-Do List API
 
-##Descrição
+## Descrição
 Uma simples API de lista de tarefas (ToDo List) que permite gerenciar as tarefas. Esse projeto foi feito para aprendizado do SpringBoot e Swagger
 
-##🛠️ Tecnologias Utilizadas
-Java - Linguagem de programação principal
+## 🛠️ Tecnologias Utilizadas
+- Java - Linguagem de programação principal
 
-Spring Boot - Framework para desenvolvimento da API
+- Spring Boot - Framework para desenvolvimento da API
 
-H2 Database - Banco de dados em memória
+- H2 Database - Banco de dados em memória
 
-Swagger - Documentação interativa da API
+- Swagger - Documentação interativa da API
 
-##📋 Características
+## 📋 Características
 
-Nome - Título da tarefa
+- Nome - Título da tarefa
 
-Descrição - Detalhes sobre a tarefa
+- Descrição - Detalhes sobre a tarefa
 
-Status - Indica se a tarefa foi concluída ou não
+- Status - Indica se a tarefa foi concluída ou não
 
-Prioridade - Nível de importância da tarefa
+- Prioridade - Nível de importância da tarefa
 
-##🔧 Operações CRUD disponíveis via Swagger
-Criar uma nova tarefa
+## 🔧 Operações CRUD disponíveis via Swagger
+- Criar uma nova tarefa
 
-Listar todas as tarefas
+- Listar todas as tarefas
 
-Atualizar uma tarefa existente
+- Atualizar uma tarefa existente
 
-Deletar uma tarefa
+- Deletar uma tarefa
 
-##🚀 Como executar
-Clone o repositório
+## 🚀 Como executar
+1º Clone o repositório
 
-Execute o projeto Spring Boot
+2º Execute o projeto Spring Boot
 
-Acesse a documentação Swagger em: http://localhost:8080/swagger-ui.html
+3º Acesse a documentação Swagger em: http://localhost:8080/swagger-ui.html
 
-##📊 Banco de Dados H2
+## 📊 Banco de Dados H2
 O banco de dados H2 pode ser acessado via console em: http://localhost:8080/h2-console
